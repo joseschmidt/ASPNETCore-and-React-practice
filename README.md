@@ -6,7 +6,7 @@ With this repo I want to make a functional and good webapp, and understand how i
 Some of those goals are listed bellow:
 
 Step 1
-- [ ] Develop one basic Web API to be consumed by front end as an example
+- [X] Develop one basic Web API to be consumed by front end as an example
 - [ ] Consume that basic web API in the front end with react
 
 Step 2

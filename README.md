@@ -11,13 +11,12 @@ Step 1
 
 Step 2
 - [ ] Implement Unity Tests for the CRUD services, to use TDD practice
-- [ ] Develop a REST Api and make a CRUD example, using static objects to just 'mock' the database
-- [ ] Develop the Unity Tests for the react CRUD _things_ (idk the name yet)
-- [ ] Develop the screens to make that CRUD works using React and some HTML and CSS things
+- [ ] Implement IMDB (in memory database) with the Entity framework
+- [ ] Develop a REST Api and make a CRUD example consuming with Postman (https://www.getpostman.com/)
 
 Step 3
-- [ ] Search one type of IMDB (in memory database) that is suitable with .net core
-- [ ] Implement that IMDB with the ORM Entity framework
+- [ ] Develop the Unity Tests for the react CRUD _things_ (idk the name yet)
+- [ ] Develop the screens to make that CRUD works using React and some HTML and CSS things
 
 Step 4
 - [ ] Be proud

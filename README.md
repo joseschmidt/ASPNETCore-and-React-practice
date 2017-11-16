@@ -10,7 +10,7 @@ Step 1
 - [ ] Consume that basic web API in the front end with react
 
 Step 2
-- [ ] Develop a REST Api and make a CRUD example, usin static objects to just 'mock' the database
+- [ ] Develop a REST Api and make a CRUD example, using static objects to just 'mock' the database
 - [ ] Develop the screens to make that CRUD works using React and some HTML and CSS things
 
 Step 3

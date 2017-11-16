@@ -21,6 +21,7 @@ Step 3
 Step 4
 - [ ] Be proud
 
+---
 
 References used throughout the implementation of this challenge:
 - https://reactjs.org/tutorial/tutorial.html

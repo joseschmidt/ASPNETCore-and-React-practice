@@ -1,9 +1,9 @@
 # ASPNETCore and React practice 
 A practice with the new open source framework by microsoft ASP .Net Core Web Application and front end with React.js
 
-With this repo I want make a functional and good webapp, and understand how implement ASP.NET Core web applications, and also get some experience with react.
+With this repo I want to make a functional and good webapp, and understand how implement ASP.NET Core web applications, and also get some experience with react.
 
-Some of this goals is listed bellow:
+Some of those goals are listed bellow:
 
 Step 1
 - [ ] Develop one basic Web API to be consumed by front end as an example

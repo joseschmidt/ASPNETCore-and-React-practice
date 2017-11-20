@@ -22,6 +22,18 @@ Step 4
 - [ ] Be proud
 
 ---
+# Configuration
+
+Here is the configuration to run the project.
+
+### React
+Installing react:
+
+- `npm init`
+- `npm install --save react react-dom`
+
+---
 
 References used throughout the implementation of this challenge:
 - https://reactjs.org/tutorial/tutorial.html
+- https://reactjs.org/docs/installation.html#adding-react-to-an-existing-application

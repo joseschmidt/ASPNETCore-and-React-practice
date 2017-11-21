@@ -37,3 +37,4 @@ Installing react:
 References used throughout the implementation of this challenge:
 - https://reactjs.org/tutorial/tutorial.html
 - https://reactjs.org/docs/installation.html#adding-react-to-an-existing-application
+- Serving and understand static files on ASP.NET Core https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files

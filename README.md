@@ -7,7 +7,11 @@ Some of those goals are listed bellow:
 
 Step 1
 - [X] Develop one basic Web API to be consumed by front end as an example
+- [X] React is on the project and working
 - [ ] Consume that basic web API in the front end with react
+
+Step 1.1
+- [ ] Generate a version to you fork and challenge yourself (yeah, you, if you want)
 
 Step 2
 - [ ] Implement Unity Tests for the CRUD services, to use TDD practice
@@ -24,17 +28,18 @@ Step 4
 ---
 # Configuration
 
-Here is the configuration to run the project.
+There is no configuration needed so far. 
 
-### React
-Installing react:
-
-- `npm init`
-- `npm install --save react react-dom`
+## What is used so far (NuGet):
+- Microsoft.NETCore.App, 2.0.0
+- Microsoft.AspNetCore.All, 2.0.3
+- Microsoft.AspNetCore.StaticFiles, 2.0.3
+- Microsoft.VisualStudio.Web.CodeGeneration.Design, 2.0.0
+- React.AspNet, 3.2.0
 
 ---
 
 References used throughout the implementation of this challenge:
-- https://reactjs.org/tutorial/tutorial.html
-- https://reactjs.org/docs/installation.html#adding-react-to-an-existing-application
+- React tutorial https://reactjs.org/tutorial/tutorial.html
 - Serving and understand static files on ASP.NET Core https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files
+- Using ReactJS.Net https://reactjs.net/getting-started/tutorial.html

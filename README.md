@@ -6,7 +6,7 @@ With this repo I want to make a functional and good webapp, and understand how i
 Some of those goals are listed bellow:
 
 Step 1
-- [ ] Develop one basic Web API to be consumed by front end as an example
+- [X] Develop one basic Web API to be consumed by front end as an example
 - [ ] Consume that basic web API in the front end with react
 
 Step 2
@@ -20,3 +20,21 @@ Step 3
 
 Step 4
 - [ ] Be proud
+
+---
+# Configuration
+
+Here is the configuration to run the project.
+
+### React
+Installing react:
+
+- `npm init`
+- `npm install --save react react-dom`
+
+---
+
+References used throughout the implementation of this challenge:
+- https://reactjs.org/tutorial/tutorial.html
+- https://reactjs.org/docs/installation.html#adding-react-to-an-existing-application
+- Serving and understand static files on ASP.NET Core https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-namespace ASPNETCore_React.Web.Controllers.Example
+namespace ASPNETCore_React.Web.Controllers.API.Example
 {
     [Route("api/[controller]")]
     public class ExampleController : Controller

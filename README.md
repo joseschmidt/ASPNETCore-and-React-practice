@@ -8,9 +8,7 @@ Some of those goals are listed bellow:
 Step 1
 - [X] Develop one basic Web API to be consumed by front end as an example
 - [X] React is on the project and working
-- [ ] Consume that basic web API in the front end with react
-
-Step 1.1
+- [X] Consume that basic web API in the front end with react
 - [ ] Generate a version to you fork and challenge yourself (yeah, you, if you want)
 
 Step 2

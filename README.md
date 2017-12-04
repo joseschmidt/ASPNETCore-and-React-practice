@@ -9,7 +9,7 @@ Step 1
 - [X] Develop one basic Web API to be consumed by front end as an example
 - [X] React is on the project and working
 - [X] Consume that basic web API in the front end with react
-- [ ] Generate a version to you fork and challenge yourself (yeah, you, if you want)
+- [X] Generate a version to you fork and challenge yourself (yeah, you, if you want)
 
 Step 2
 - [ ] Implement Unity Tests for the CRUD services, to use TDD practice

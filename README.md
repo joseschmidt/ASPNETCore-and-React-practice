@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d051d0d68b14ea4b9e701ae91b2211e)](https://www.codacy.com/app/k30v1n/ASPNETCore-and-React-practice?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=k30v1n/ASPNETCore-and-React-practice&amp;utm_campaign=Badge_Grade)
+
 # ASPNETCore and React practice 
 A practice with the new open source framework by microsoft ASP .Net Core Web Application and front end with React.js
 

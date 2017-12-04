@@ -8,7 +8,7 @@ class APIResult extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            result: 'loading...'
+            result: "loading..."
         };
     }
 
@@ -16,13 +16,13 @@ class APIResult extends React.Component {
      * Consuming api with fetch method
      */
     fetchResult() {
-        fetch('/api/example/', { method: "GET" })
-            .then(result => result.json())
-            .then(items => this.setState({ result: items }));
+        fetch("/api/example/", { method: "GET" })
+            .then((result) => result.json())
+            .then((items) => this.setState({ result: items }));
     }
 
     /**
-     * Component's render
+     * Component"s render
      */
     render() {
         return (
@@ -47,7 +47,7 @@ var CommentBox = React.createClass({
             <div className="commentBox">
                 Hello, world!.
                 <div>
-                    <p>Let's consume a API?</p>
+                    <p>Let"s consume a API?</p>
                     <APIResult text="Now!" />
                 </div>
             </div>

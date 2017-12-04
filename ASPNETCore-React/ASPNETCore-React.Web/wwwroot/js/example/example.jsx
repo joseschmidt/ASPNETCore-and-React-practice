@@ -42,7 +42,7 @@ class APIResult extends React.Component {
  * Main component
  */
 var CommentBox = React.createClass({
-    render: function () {
+    render() {
         return (
             <div className="commentBox">
                 Hello, world!.
@@ -51,13 +51,12 @@ var CommentBox = React.createClass({
                     <APIResult text="Now!" />
                 </div>
             </div>
-
         );
     }
 });
 
 ReactDOM.render(
     <CommentBox />,
-    document.getElementById('content')
+    document.getElementById("content")
 );
 

@@ -15,7 +15,7 @@ Step 1
 Step 2
 - [ ] Implement Unity Tests for the CRUD services, to use TDD practice
 - [ ] Implement IMDB (in memory database) with the Entity framework
-- [ ] Develop a REST Api and make a CRUD example consuming with Postman (https://www.getpostman.com/)
+- [ ] Develop a REST Api and make a CRUD example consuming with [Postman](https://www.getpostman.com/)
 
 Step 3
 - [ ] Develop the Unity Tests for the react CRUD _things_ (idk the name yet)
@@ -39,6 +39,6 @@ There is no configuration needed so far.
 ---
 
 References used throughout the implementation of this challenge:
-- React tutorial https://reactjs.org/tutorial/tutorial.html
-- Serving and understand static files on ASP.NET Core https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files
-- Using ReactJS.Net https://reactjs.net/getting-started/tutorial.html
+- [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [Serving and understand static files on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
+- [Using ReactJS.Net](https://reactjs.net/getting-started/tutorial.html)

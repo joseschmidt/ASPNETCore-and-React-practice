@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0" />
+    <PackageReference Include="xunit" Version="2.2.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Services\" />
+    <Folder Include="Web\API\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPNETCore-React.Domain\ASPNETCore-React.Domain.csproj" />
+    <ProjectReference Include="..\ASPNETCore-React.Services\ASPNETCore-React.Services.csproj" />
+    <ProjectReference Include="..\ASPNETCore-React.Web\ASPNETCore-React.Web.csproj" />
+  </ItemGroup>
+
+</Project>

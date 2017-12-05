@@ -20,4 +20,8 @@
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ASPNETCore-React.Services\ASPNETCore-React.Services.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -26,6 +26,10 @@ namespace ASPNETCore_React.Web.Controllers.MVC
             return PartialView();
         }
 
+        /// <summary>
+        /// A view to render the react Example
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Example()
         {
             return View();

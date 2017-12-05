@@ -25,21 +25,24 @@ namespace ASPNETCore_React.Web.Controllers.API.Example
         [HttpPost]
         public void Post([FromBody]string value)
         {
-            throw new NotImplementedException();
+            // As This example dont have a repository, 
+            // we are not able to verify if the object was fully updated
         }
 
         // PUT api/example/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
-            throw new NotImplementedException();
+            // As This example dont have a repository, 
+            // we are not able to verify if the object was partially updated
         }
 
         // DELETE api/example/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            // As This example dont have a repository, 
+            // we are not able to verify if the object was deleted
         }
     }
 }

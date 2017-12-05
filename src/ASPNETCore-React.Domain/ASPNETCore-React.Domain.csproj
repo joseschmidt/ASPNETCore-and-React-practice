@@ -11,9 +11,4 @@
     <None Remove="Database\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
 </Project>

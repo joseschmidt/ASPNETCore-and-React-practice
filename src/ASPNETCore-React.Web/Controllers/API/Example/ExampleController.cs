@@ -25,21 +25,21 @@ namespace ASPNETCore_React.Web.Controllers.API.Example
         [HttpPost]
         public void Post([FromBody]string value)
         {
-            // POST: The object will be full updated with this new value
+            throw new NotImplementedException();
         }
 
         // PUT api/example/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
-            // PUT: The object will be updated partialy with the given values
+            throw new NotImplementedException();
         }
 
         // DELETE api/example/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            // DELETE: Delete the record
+            throw new NotImplementedException();
         }
     }
 }

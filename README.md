@@ -14,7 +14,7 @@ Step 1
 - [X] Generate a version to you fork and challenge yourself (yeah, you, if you want)
 
 Step 2
-- [ ] Implement Unity Tests for the CRUD services, to use TDD practice
+- [X] Implement Unity Tests for the CRUD services, to use TDD practice
 - [ ] Implement IMDB (in memory database) with the Entity framework
 - [ ] Develop a REST Api and make a CRUD example consuming with Postman (https://www.getpostman.com/)
 

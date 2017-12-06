@@ -12,7 +12,8 @@ using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Microsoft.AspNetCore.Http;
 using React.AspNet;
-
+using ASPNETCore_React.Domain.Database;
+using Microsoft.EntityFrameworkCore;
 
 namespace ASPNETCore_React.Web
 {
@@ -31,6 +32,9 @@ namespace ASPNETCore_React.Web
             //React.NET
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddReact();
+
+            //Configuring DBContext
+            services.AddDbContext<DomainContext>();
 
             services.AddMvc();
 

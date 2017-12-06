@@ -6,9 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Database\**" />
-    <EmbeddedResource Remove="Database\**" />
-    <None Remove="Database\**" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.0.1" />
   </ItemGroup>
 
 </Project>

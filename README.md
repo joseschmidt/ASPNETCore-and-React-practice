@@ -43,3 +43,4 @@ References used throughout the implementation of this challenge:
 - [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [Serving and understand static files on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
 - [Using ReactJS.Net](https://reactjs.net/getting-started/tutorial.html)
+- [Using in memory database with asp net core](https://stormpath.com/blog/tutorial-entity-framework-core-in-memory-database-asp-net-core)
